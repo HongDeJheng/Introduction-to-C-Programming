@@ -1,0 +1,16 @@
+/* EE231002 Lab02 Currency Exchange, II
+   104061210, 鄭弘得
+   Date:2015/10/5
+*/
+
+#include <stdio.h>
+
+int main(void)
+{
+	int USD, a, b, c, d;
+
+	printf("Enter USD amount: ");
+	scanf("%d, &USD);
+	USD = 1000 * a + 100 *  
+	printf("To pay:\n");
+	printf("  %d $1000 bills, a")
