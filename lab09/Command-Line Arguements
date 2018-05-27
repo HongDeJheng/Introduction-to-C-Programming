@@ -1,0 +1,8 @@
+int main(argc,char *argv[])
+{
+    int i;
+    printf("argc: %d\n",argc);
+    for (i=0; i<argc; i++)
+	printf("argv[%d]: %s\n",i,argv[i]);
+    printf("integer: %d\n",atoi(argv[argc-1]));
+}
