@@ -3,7 +3,7 @@ Courses from NTHU EE by MCC
 There are 14 Labs in this courses.   
 
 -------------------------------
-Lab 01 : Currency Exchange/n  
+Lab 01 : Currency Exchange  
 Lab 02 : Currency Exchange II  
 Lab 03 : Pythagorean Triples  
 Lab 04 : Deciperhing Roman Numerals  
